@@ -5,7 +5,8 @@
 
 - 💬 We run a start-up club to change the world. **2024 Start-up Club**
 
-- 📝 Create an application for me to use. **Innovation Schedule**
+- 📝 Create an application for me to use. **Innovation**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
