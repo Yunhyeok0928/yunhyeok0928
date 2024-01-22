@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Yunhyeok</h1>
-<h3 align="left">생각하고 만드는게 재밌어서 개발자 합니다.</h3>
+<h3 align="left">It's fun to think and make, so I'm a developer.</h3>
 
-- 🌱 프로그램 만드는게 재밌어서 연습합니다. [백준 코딩테스트 연습](https://www.acmicpc.net/user/djbyh645047)
+- 🌱 I practice because it's fun to make a program. [Baek Joon practicing coding test](https://www.acmicpc.net/user/djbyh645047)
 
-- 💬 세상을 바꾸기 위해 창업동아리를 운영합니다. **2024 창업동아리원 모집**
+- 💬 We run a start-up club to change the world. **2024 Start-up Club**
 
-- 📝 내가 사용하기 위해 웹과 어플을 만듭니다. **Innovation Schedule**
+- 📝 Create an application for me to use. **Innovation Schedule**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
