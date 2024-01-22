@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yunhyeok</h1>
-<h3 align="center">생각하고 만드는게 재밌어서 개발자 합니다.</h3>
+<h1 align="left">Hi 👋, I'm Yunhyeok</h1>
+<h3 align="left">생각하고 만드는게 재밌어서 개발자 합니다.</h3>
 
 - 🌱 프로그램 만드는게 재밌어서 연습합니다. [백준 코딩테스트 연습](https://www.acmicpc.net/user/djbyh645047)
 
