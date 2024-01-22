@@ -1,8 +1,8 @@
 # Yunhyeok
-## 코드를 짜기 위해 천재일 필요는 없다.
+## You don't have to be a genius to write the code
 
-기술 스택
 
+Skill
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
