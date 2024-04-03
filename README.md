@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Yunhyeok</h1>
 <h3 align="left">It's fun to think and make, so I'm a developer.</h3>
 
+- 🌱 Completed KAIST IT Academy
+
 - 🌱 I practice because it's fun to make a program. [Baek Joon practicing coding test](https://www.acmicpc.net/user/djbyh645047)
 
 - 💬 We run a start-up club to change the world. **2024 Start-up Club**
